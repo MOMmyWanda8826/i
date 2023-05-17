@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3774016063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f36f2568bfdccb3a4fd56b1ed8e25ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1ed78d4afa74ec917acc6df68c27a3d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/IBM.ab.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+{
+  "Name": "AJIN:Demi-Human",
+  "Author": "NeitherFishNorCat",
+  "Description": "This creature does not die!",
+  "ModVersion": "1.2",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "sprites/placeholder.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "mod.cs",
+    "BlackGhost.cs",
+    "AjinBehaviour.cs",
+    "ParalyzingScream.cs",
+    "CategoryBuilder.cs",
+    "AjinSyringe.cs",
+    "Utils.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2957362030"
+}
